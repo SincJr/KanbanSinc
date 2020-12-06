@@ -1,0 +1,10 @@
+H:\Visual Studio 2019\Projects\SemacTeste\bin\Debug\SemacTeste.exe.config
+H:\Visual Studio 2019\Projects\SemacTeste\bin\Debug\SemacTeste.exe
+H:\Visual Studio 2019\Projects\SemacTeste\bin\Debug\SemacTeste.pdb
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.csproj.GenerateResource.cache
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.exe
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.pdb
+H:\Visual Studio 2019\Projects\SemacTeste\obj\Debug\SemacTeste.Form1.resources
